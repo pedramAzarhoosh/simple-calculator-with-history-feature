@@ -1,6 +1,6 @@
 # Calculator with history
 This is a simple calculator that has history feature.
-## how it's work?
+## how it works?
 All the calculations you do will be saved and you can see them by click on history button.
 Also you can delete the history of calculations with delete button any time that you want.
 ## Implementation
